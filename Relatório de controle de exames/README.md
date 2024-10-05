@@ -1,10 +1,6 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+# Relatório de Controle de Exames
+Plataforma: Power BI
+Conexão: Banco de Dados SQL
 
-Segundo Desafio de Projeto com Modelagem de Dados na área de E-Commerce,
-Foi criado um schema com o um sistemas de cadastros de clients por PJ ou PF,
-Fazendo um levantamento de pedido com relaçao entre pedido e formas de pagamentos.
-
-Terceiro Desafio de Projeto com modelagem do zero e relação a uma Oficina Mecanica,
-Trazendo dados de clientes, mecânicos, veículos, Ordem de Serviço e muito mais relacionado a uma oficina,
-incrível trabalho, para poder pensar e ter conceitos na criação de um esquema relacional.
+# Relatório de Controle de Exames por Porduto
+Neste relatório contém dados de uma empresa de laudos, para isso os dados usados para analise foi em relação aos produtos em destaques, trazendo assim quantidades de exames para cada produto tendo assim o melhor controle dos exames.
